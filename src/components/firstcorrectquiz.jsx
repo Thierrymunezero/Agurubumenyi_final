@@ -1,7 +1,4 @@
 
-// make the button to submit always there
-// also css for this is not good. just make the question fit the screen. make the question text or image fixded please change any thing you want in this css
-// remember this quiz app where question is text or image or both and option is text or image. 
 import React, { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import axios from 'axios'
